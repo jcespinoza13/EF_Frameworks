@@ -1,0 +1,86 @@
+@media (max-width: 900px) {
+  /* Clase para ocultar componentes HTML */
+  .left-column {
+
+  }
+}
+.nopadding{
+  padding: 0px;
+  margin: 0px;
+}
+.bordered {
+  border-color: white;
+  border: 2px;
+}
+body {
+  /* color: #00e5ff; */
+  color: #00b0ff;
+  font-size: 1.2rem;
+  font-family: Tahoma;
+  background-color:white ;
+  align-content: center;
+}
+
+.logo-img {
+  width: 150px;
+  height: 90px;
+}
+.redes-sociales {
+  margin-top: 20px;
+}
+#barra-primaria {
+  width: 100%;
+  background-color: black;
+}
+.navbar {
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #263238;
+}
+
+#bar-menu {
+  width: 100%;
+  font-size: 2rem !important;
+  padding-top: 10px;
+}
+
+#imagen {
+  width: 200px;
+  height: 200px;
+}
+
+#left {
+  min-height: 1100px;
+  background-color: #263238;
+}
+#right {
+  min-height: 1100px;
+  background-color: #455a64;
+}
+#media {
+  background-color: #37474f;
+}
+.post-sup {
+  padding: 20px;
+}
+.post-inf {
+  padding: 20px;
+}
+#usrman {
+  width: 2rem;
+  height: 2rem;
+}
+ .alert {
+   max-width: 90%;
+   height: auto;
+ }
+ .comentarios {
+   background-color: #263238;
+ }
+ #derechos {
+   background-color: black;
+ }
+ .busqueda {
+   background-color: #37474f;
+ }

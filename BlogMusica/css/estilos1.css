@@ -1,0 +1,44 @@
+@media (max-width: 900px) {
+  /* Clase para ocultar componentes HTML */
+  .right-column {
+    display: none;
+  }
+}
+
+.blog-dimesion {
+  background: url(../img/fondo.jpeg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  font-size: 2rem;
+  font-family: sans-serif;
+}
+
+.blog-header {
+  background-color: #607d8b;
+  color: white;
+  max-height: 100%;
+}
+.logo-img {
+  height: 120px;
+  width:  200px;
+  padding: 0px 0px 0px 0px;
+}
+#redes-sociales {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  align-items: flex-end;
+}
+.navbar {
+  margin-top: 120px;
+  min-height: 10%;
+  background-color: #263238;
+  border: 1px;
+}
+#bar-menu {
+  margin: auto;
+  padding-left: 20px;
+}
