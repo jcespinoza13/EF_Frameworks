@@ -1,0 +1,57 @@
+body {
+  color: rgba(0,0,0,1);
+  font-size: 1.2rem;
+  font-family: Verdana;
+  background: url(../img/fondo.jpg);
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+}
+#contenedor {
+  background-color: rgba(63,72,204,0.3);
+  max-width: 1500px;
+}
+#contenedor-sup {
+  background-color: rgba(236,28,36,0.2);
+  max-width: 1500px;
+  padding: 30px;
+  /* min-height: 1200px; */
+}
+#contenedor-izq {
+  background-color: rgba(14,209,69,0.2);
+  max-width: 1200px;
+  padding: 30px;
+  /* min-height: 1200px; */
+}
+#contenedor-der {
+  background-color: rgba(214,243,123,0.5);
+  max-width: 1200px;
+  padding: 30px;
+  /* min-height: 1200px; */
+}
+#logo {
+  width: 300px;
+  height: 150px;
+}
+#card {
+  width: 150px;
+  height: 180px;
+  background-color: rgba(214,243,123,0.8);
+
+}
+#imagen {
+  width: 150px;
+  height: 100px;
+}
+#imagen-right {
+  width: 250px;
+  height: 250px;
+}
+/* #equalizador {
+  background-color: rgba(214,243,123,0.8);
+} */
+.callout {
+  background-color: rgba(14,209,69,0.3);
+}
